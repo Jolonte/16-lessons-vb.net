@@ -1,5 +1,7 @@
 # 16-lessons-vb.net
 
+The programs listed were not considered for grade, only to train and serve as a possible recovery for the student.
+
 All programs must have:
   - Design;
   - Clean and exit buttons;
