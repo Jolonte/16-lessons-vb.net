@@ -1,0 +1,12 @@
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\bin\Debug\Programa04.exe.config
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\bin\Debug\Programa04.exe
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\bin\Debug\Programa04.pdb
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\bin\Debug\Programa04.xml
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\obj\Debug\Programa04.vbprojAssemblyReference.cache
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\obj\Debug\Programa04.Form1.resources
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\obj\Debug\Programa04.Resources.resources
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\obj\Debug\Programa04.vbproj.GenerateResource.cache
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\obj\Debug\Programa04.vbproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\obj\Debug\Programa04.exe
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\obj\Debug\Programa04.xml
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\PROGAMAS\Programa04\obj\Debug\Programa04.pdb
