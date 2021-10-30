@@ -8,7 +8,7 @@ All programs must have:
   - Enter and Esc key shortcuts;
   - Program description in the design.
 
-# Here is what should be done:
+### Here is what should be done:
 
 1) Write a program that reads 2 integer values and prints the sum of these values.
 
@@ -55,3 +55,5 @@ receive an amount of a purchase and show the amount of the installments.
 
 16) Make an algorithm that receives the cost price of a product and shows the sales value. It is known that the
 cost price will receive an addition according to a percentage entered by the user.
+
+  - All programs are only available on PT-BR.
