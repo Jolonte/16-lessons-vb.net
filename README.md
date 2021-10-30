@@ -1,8 +1,9 @@
 # 16-lessons-vb.net
 
 The programs listed were not considered for grade, only to train and serve as a possible recovery for the student.
+  - All programs are only available on PT-BR.
 
-All programs must have:
+### All programs must have
   - Design;
   - Clean and exit buttons;
   - Enter and Esc key shortcuts;
@@ -55,5 +56,3 @@ receive an amount of a purchase and show the amount of the installments.
 
 16) Make an algorithm that receives the cost price of a product and shows the sales value. It is known that the
 cost price will receive an addition according to a percentage entered by the user.
-
-  - All programs are only available on PT-BR.
