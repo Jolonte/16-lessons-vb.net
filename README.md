@@ -2,6 +2,7 @@
 
 The programs listed were not considered for grade, only to train and serve as a possible recovery for the student.
   - All programs are only available on PT-BR.
+  - Windows only compatible.
 
 ### All programs must have
   - Design;
